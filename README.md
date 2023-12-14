@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning HTML/CSS/Javascript.
 - 💞️ I’m looking to collaborate on interesting projects that will help me improve my skills and knowledge.
 - 📫 How to reach me natemills67@gmail.com
-<script src="https://tryhackme.com/badge/2475366"></script>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/nmills45.png" alt="TryHackMe">
+
 
 
 <!---
